@@ -1,2 +1,3 @@
 # hello-world
-all things must pass
+
+I write ~~code~~ because I have no option.
